@@ -1,7 +1,8 @@
 /* top section */
+  /* navbar */
 .top{
   padding-top: 5px;
-  background-color: #ffcb74;
+  background-color: #276E5B;
   font-family:'Merriweather', serif;
 }
 .navbar-brand{
@@ -21,4 +22,42 @@
 .active{
   background-color: #f4f6ff;
   border-radius: 5px;
+}
+  /* poster */
+.poster-con{
+  padding: 6% 16% 5% 16%;
+  font-family: Montserrat;
+  font-weight: bolder;
+  color: white;
+}
+.paragraph-top{
+  font-weight: normal;
+  color: #e4e3e3;
+  font-size: 0.7rem;
+}
+.col-10{
+  padding: 0;
+}
+.col-10 hr{
+  position: relative;
+  border-style: none;
+  background-color: white;
+  height: 1px;
+  top: 2px;
+  width: 124%;
+  left: 5px;
+}
+.btn-outline{
+  border-radius: 15px;
+  border-color: white;
+  color: black;
+}
+.btn-outline:hover{
+  color: white;
+}
+.text-col{
+  text-align: center;
+}
+.text-col img{
+  width: 65%;
 }
