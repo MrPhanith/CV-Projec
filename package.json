@@ -1,0 +1,22 @@
+{
+  "name": "cv-site-project",
+  "version": "1.0.0",
+  "description": "CV project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPhanith/CV-Projec.git"
+  },
+  "author": "PHOEM Phanith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPhanith/CV-Projec/issues"
+  },
+  "homepage": "https://github.com/MrPhanith/CV-Projec#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
